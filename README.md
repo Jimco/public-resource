@@ -1,1 +1,1 @@
-# public-image
+# 开放资源库
